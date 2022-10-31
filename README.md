@@ -168,4 +168,5 @@ print(classification_report(y_test,predictions))
 ![v4](https://user-images.githubusercontent.com/75235704/198988019-2155ed97-5168-4f9c-af10-7f8aeb7c72e5.png)
 
 ## RESULT
+Thus Implementation-of-MLP-with-Backpropagation problem is executed successfully.
 
